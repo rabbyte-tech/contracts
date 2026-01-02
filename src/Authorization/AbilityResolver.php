@@ -1,6 +1,6 @@
 <?php
 
-namespace Rabbyte\Contracts\Authorization;
+namespace RabbyteTech\Contracts\Authorization;
 
 interface AbilityResolver
 {
